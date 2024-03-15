@@ -1,6 +1,6 @@
 Hello, I am Aidan Freund, a student of general CS at Illinois State University.
 My interests are extensive, which is one of the primary reasons I am pursueing a career in CS.  
-I'm inclined to say my interest lays in understanding complex, large scale systems, whatever they may be. 
+I'm always trying to gain understanding of complex, and large scale systems, whatever they may be. 
 I currently am seeking a professional internship that will help me better gauge where I'd like to start.
 I'm interested in both software development and data analysis.
 
